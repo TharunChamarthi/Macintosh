@@ -15,7 +15,10 @@ Create a Branch locally
                 After Changes and commit 
             git push --set-upstream origin remoteBranchName [Remote branch name can be any name or even same as local branch name]
 
-Merge Brnach 
+Merge Branch    
+Move to source branch [git checkout  to destination]
+from source branch 'git merge header[source]'
+
             
          
 
