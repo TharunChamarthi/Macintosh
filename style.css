@@ -15,7 +15,20 @@ div{
     
 }
 body{
-    background-image: url('https://wallpaperaccess.com/full/706362.jpg');
-    background-repeat: no-repeat;
-    background-size: 1500px ;
+    
+    background-color: rgb(18, 18, 128) ;
 }
+table, th,td{
+    border: 2px solid white;
+    border-collapse: collapse;
+    color: rgb(107, 240, 245);
+    padding: 15px;
+    table-layout: auto;
+    text-align: center;
+}
+th{
+    color: yellow;
+}
+
+
+    
